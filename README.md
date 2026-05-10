@@ -63,7 +63,6 @@ python main.py
 ```text
 这个项目的主要目标是什么？
 ```
-```
 
 ```markdown
 退出程序：
