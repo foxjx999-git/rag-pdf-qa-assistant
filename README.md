@@ -64,9 +64,7 @@ python main.py
 这个项目的主要目标是什么？
 ```
 
-```markdown
 退出程序：
-```
 
 ```text
 q
